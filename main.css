@@ -1,0 +1,89 @@
+.header{
+    
+  background-color: aqua;
+  color: white;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    
+    
+    
+}
+
+.header li{
+    
+    color:black;
+    float: right;
+    font-size:25px;
+    margin-right: 10px;
+
+    margin-left: 20px;
+    
+    
+}
+
+.header p{
+    font-family: cursive;
+    font-size:20px;
+    height: 35px;
+    
+    
+}
+
+
+.container{
+    
+ 
+    opacity: 0.7;
+       background-image: url(https://www.moneycrashers.com/wp-content/uploads/2018/12/college-students-studying-on-lawn-classmates-university-1068x713.jpg);
+    background-size: cover;
+    
+    padding-left:50px;
+    padding-right:50px;
+    
+}
+.top{
+    padding-top: 180px;
+    padding-bottom: 100px;
+    color:red;
+    font-size:30px;
+    text-align: center
+    
+    
+}
+span{
+    color:white;
+    float:right;
+    font-family: cursive;
+}
+span:hover{
+    color:purple;
+}
+
+.footer{
+    background-color: mediumseagreen;
+    color:yellow;
+    
+}
+
+.container p{
+    font-size:50px;
+    color:yellow;
+    text-align: center;
+    
+}
+
+.container li{
+    font-size:45px;
+    color:aqua
+}
+ p:hover{
+    color:red;
+}
+.container li:hover{
+    color:darkblue;
+}
+.top h1:hover{
+    font-size:300%;
+}
